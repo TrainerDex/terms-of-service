@@ -10,4 +10,4 @@ The following rules/terms are in place and violation of these rules can result i
 - **No submitting anybody else's screenshots as your own**
 - **No knowingly submitting false data to TrainerDex**
 
-We import data from several third party providers and whilst we accept the risk that this data might not be up to our standards, submitting false data to these providers so that it propogates through to TrainerDex is a violation of the previous term.
+We import data from several third-party providers and whilst we accept the risk that this data might not be up to our standards, submitting false data to these providers so that it propagates through to TrainerDex is a violation of the previous term.
