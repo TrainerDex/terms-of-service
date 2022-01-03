@@ -1,5 +1,5 @@
 We use several terms in this document which could be considered ambiguous so I would like to clear these up:
- * the Website - any website hosted on the trainerdex.co.uk domain or any subdomains thereof
+ * the Website - any website hosted on the trainerdex.app domain or any subdomains thereof
  * the Discord Bot - Our official bot instance, TrainerDex#8522, on Discord, or any third party instances that may or may not launch in the future.
 
 By signing up to TrainerDex through any of the various methods such as; the Website, the Discord Bot or any of our other apps, present and future, you are agreeing to these Terms of Service. These terms of service are subject to change at any time.
@@ -25,4 +25,4 @@ The types of information we may store on you include;
 
 It is within your right to request to be removed from TrainerDex or have your information hidden at any time. However, we are not responsible for third party services caching your public data.
 
-To request removal or to be hidden from TrainerDex, email <jay@trainerdex.co.uk> or message TurnrDev#0117 on Discord.
+To request removal or to be hidden from TrainerDex, email <jay@trainerdex.app> or message TurnrDev#0117 on Discord.
